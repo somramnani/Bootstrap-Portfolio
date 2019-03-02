@@ -1,0 +1,116 @@
+/* General Styles
+   ========================================================================== */ 
+
+    html, body{
+        height: 100%;
+       
+    }
+    .container{
+        margin-bottom: 10em;
+    }
+
+    #maincontent {
+        padding-bottom: 7em;
+      }
+
+    /* Border for each page */
+    .border{
+        padding: 40px;
+    }
+
+    .container{
+        background-color: white;
+        transform: translateY(1em);
+    }
+
+    /* Middle content background image */
+    .background-color{
+        background-image: url("https://images.pexels.com/photos/89485/pexels-photo-89485.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover;
+        height: 100%;
+    
+    }
+
+    a{
+        text-decoration: none;
+    }
+    .homePageIcons{
+        font-size: 4em;
+        color: black;
+    }
+
+    .homepageContent{
+        transform: translateY(50%);
+        text-transform: uppercase;
+    }
+/* ========================================================================== */ 
+    
+
+
+/* Navigation Styles
+   ========================================================================== */ 
+   
+    .nav-item{
+        float: right;
+    }
+
+    #navbar-contact{
+        border: 1px solid white;
+    }
+/* ========================================================================== */ 
+
+
+
+
+/* Image Styles
+   ========================================================================== */ 
+
+    #image{
+        width: 50%;
+        height: auto;
+        padding: 20px;
+    }
+
+    #demPizzaPic {
+        width: 50%;
+        height: auto;
+        
+    }
+
+    #perrucciMediaPic{
+        width: 20em;
+        transform: translate(-2em, 2em);
+
+    }
+    #rpsImage{
+        width: 15em;
+        padding: 50px;
+    }
+    
+/* ========================================================================== */ 
+
+
+
+/* Footer Styles
+   ========================================================================== */ 
+    footer{
+        /* background-color: #3A3535; */
+        color: white;
+        position: absolute;
+       bottom: 0;
+    
+
+     
+    }
+/* ========================================================================== */ 
+
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+
+
