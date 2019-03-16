@@ -10,7 +10,7 @@
     }
 
     #maincontent {
-        padding-bottom: 7em;
+			padding-bottom: 7em;
       }
 
     /* Border for each page */
@@ -67,27 +67,31 @@
    ========================================================================== */ 
 
     #image{
-        width: 50%;
-        height: auto;
-        padding: 20px;
+            width: 50%;
+            height: auto;
+            padding: 20px;
     }
-
+/* 
     #demPizzaPic {
         width: 50%;
         height: auto;
         
     }
 
-    #perrucciMediaPic{
-        width: 20em;
-        transform: translate(-2em, 2em);
-
-    }
     #rpsImage{
         width: 15em;
         padding: 50px;
-    }
+    } */
     
+    /* #perrucciMediaPic {
+    
+        transform: translateY(2em);
+
+    } */
+
+    .portfolioimages{
+        padding-bottom: 40px;
+    }
 /* ========================================================================== */ 
 
 
@@ -95,13 +99,14 @@
 /* Footer Styles
    ========================================================================== */ 
     footer{
-        /* background-color: #3A3535; */
-        color: white;
-        position: absolute;
-       bottom: 0;
-    
-
-     
+      /* background-color: #3A3535; */
+    	color: white;
+      position: absolute;
+			padding: 9px;
+			width: 100%;
+			
+			
+      
     }
 /* ========================================================================== */ 
 
