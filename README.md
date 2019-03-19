@@ -6,7 +6,7 @@
 
 ## Features
 
-- Used Bootstrap to recreate your portfolio site with the following items:
+- Used Bootstrap to recreate the Basic-Portfolio/Responsive-Portfolio site with the following items:
   - A navbar
   - A responsive layout using grid, rows and columns.
   - Sticky footer.
