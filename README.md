@@ -1,5 +1,9 @@
 # Bootstrap-Portfolio
 
+## Tools/Languages Used:
+- HTML/CSS
+- Bootstrap
+
 ## Features
 
 - Used Bootstrap to recreate your portfolio site with the following items:
